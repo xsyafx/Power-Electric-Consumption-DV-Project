@@ -5,8 +5,8 @@
 | Nurnabihah binti Musa              | 22006584        |  BCS   |
 | Elysha Soffiea binti Shariful Basri| 22008629        |  BCS   |
 | Syafira binti Shuhaimi             | 22011171        |  BCS   |
-| Chan Shan Wen                      | 22009078        |  BME   |
-| Halimatus Saadiah binti Abd Rahman | 24003484        |  BIS   |
+| Chan Shan Wen                      | 24003484        |  BME   |
+| Halimatus Saadiah binti Abd Rahman | 22009078        |  BIS   |
 | Shafina binti Kabir                | 22009060        |  BIS   |
 
 **Problem Statement** 
